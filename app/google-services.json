@@ -1,7 +1,7 @@
 {
   "project_info": {
-    "project_number": "729225591280",
-    "project_id": "login-register-project-b9528",
+    "project_number": "YOUR PROJECT NUMBER",
+    "project_id": "yOUR PROJECT ID",
     "storage_bucket": "login-register-project-b9528.appspot.com"
   },
   "client": [
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBA95woUUMeoWwXW-XQTpEgoYywqeOkcNo"
+          "current_key": "YOUR API KEY"
         }
       ],
       "services": {
