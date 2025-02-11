@@ -15,11 +15,6 @@
 
 ---
 
-## 📸 Screenshots
-
-[Add your screenshots here]
-
----
 
 ## 🛠️ Tech Stack
 
