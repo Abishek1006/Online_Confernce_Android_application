@@ -1,7 +1,7 @@
 ```markdown
-# 📱 MyApplication - Android Live Streaming App
+# 📱 Online Confernce- Android Live Streaming App
 
-**MyApplication** is an Android-based live streaming application that allows users to host and join live streaming sessions. Built with **Firebase authentication** and **ZEGOCLOUD's streaming capabilities**, it provides a seamless live streaming experience.
+**Online Conference** is an Android-based live streaming application that allows users to host and join live streaming sessions. Built with **Firebase authentication** and **ZEGOCLOUD's streaming capabilities**, it provides a seamless live streaming experience.
 
 ---
 
